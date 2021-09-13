@@ -47,7 +47,7 @@
     "listr-input": "^0.2.1",
     "lodash": "^4.17.20",
     "node-fetch": "^2.6.1",
-    "ora": "^5.1.0",
+    "ora": "^6.0.0",
     "proxy-agent": "^4.0.0",
     "replace-in-file": "^6.1.0",
     "rimraf": "^3.0.2",
